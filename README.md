@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante de Ciências da Computação
 - 🌱 Estou Aprendendo Swift(IOS)
-- 🌱 Estou Aprendendo Flutter
+- 🌱 Estou Aprendendo Teste de Softwares
 - 🧳 Busco oportunidades de emprego
 - 📫 E-mail: paulora999@gmail.com
 

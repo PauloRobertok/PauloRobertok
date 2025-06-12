@@ -1,8 +1,7 @@
 ### Olá, eu sou Paulo Roberto, estudante e um apaixonado por progamaçåo e suas tecnologias!
 
 - 🔭 Sou estudante de Ciências da Computação
-- 🌱 Estou Aprendendo Swift(IOS)
-- 🌱 Estou Aprendendo Teste de Softwares
+- 🌱 Estou Aprendendo Swift(IOS),Teste de Softwares, Node.JS, Front-end e Back-End
 - 🧳 Busco oportunidades de emprego
 - 📫 E-mail: paulora999@gmail.com
 
